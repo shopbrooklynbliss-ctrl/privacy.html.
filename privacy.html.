@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Welcome to our app.</p>
+  <p>We respect your privacy and are committed to protecting your personal information.</p>
+  <p>We do not store or share any personal data you provide.</p>
+  <p>This app uses TikTok's API only to generate and upload videos automatically with your permission.</p>
+  <p>If you have any questions about this privacy policy, please contact us.</p>
+</body>
+</html>
